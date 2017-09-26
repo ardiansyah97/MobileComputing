@@ -55,7 +55,7 @@ public class PlayScreen implements Screen{
         hud.stage.draw();
 
         game.batch.begin();
-        game.ball.draw(game.batch);
+        //game.ball.draw(game.batch);
 
 
         if(Gdx.input.isTouched()){

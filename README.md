@@ -21,7 +21,9 @@ Pada percobaan ini, saya mencoba 2 Viewport yaitu ScretchViewport dan FitViewpor
 ## Head-Up Display
 Untuk membuat HUD, kami menggunakan table yang kami letakkan di bagian atas.
 
-![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/table_top.png "Fit Viewport")
+![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/table_top.png "Table")
+
+![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/hud.png "HUD")
 
 ## Touch Input
 Untuk mendapatkan input user, dalam hal ini menggunakan touch / klik pada mouse. Kami mencobanya menggunakan library Gdx.input. 
@@ -40,7 +42,7 @@ Pada percobaan ini, kami memberikan batasan touch pada sisi kiri dan kanan layar
 
 >setPosition(ball.getX() + 10, ball.getY()); //ini akan bergeser ke kanan (ketika layar sebelah kanan di touch)
 
-![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/hud.png "Before Clicked/Touched")
+![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/before_move.png "Before Clicked/Touched")
 
 ![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/move.png "After Clicked/Touched")
 
