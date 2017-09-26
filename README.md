@@ -47,3 +47,19 @@ Pada percobaan ini, kami memberikan batasan touch pada sisi kiri dan kanan layar
 ![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/move.png "After Clicked/Touched")
 
 ## 2D Particles Tool
+Untuk membuat particle 
+TextureAtlas particleAtlas; //load asssets particle
+ParticleEffect effect = new ParticleEffect();
+effect.load(Gdx.files.internal("myparticle.p"), particleAtlas);
+effect.start();
+
+//Setting sebuah posisi dari sebuah ParticleEffect
+effect.setPosition(x, y);
+
+//Updating and Drawing the particle effect
+//De,ta adalah waktu untuk kemajuan efek particle 
+effect.draw(batch, delta);
+
+Tp dalam percobaan ini saya blm bisa mengimplementasikannya jadi saya cuman memberikan gambaran dari tools nya
+
+![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/tools_particle.png
