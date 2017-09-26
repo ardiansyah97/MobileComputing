@@ -56,6 +56,8 @@ public class PlayScreen implements Screen{
 
         game.batch.begin();
         game.ball.draw(game.batch);
+
+
         if(Gdx.input.isTouched()){
             if(Gdx.input.getX() <= 0.25 * game.v_width) {
                 if(game.ball.getX() != 0) {
