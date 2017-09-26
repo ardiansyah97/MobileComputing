@@ -11,7 +11,7 @@ Contoh:
 
 <center>
 ![alt text][logo]
-[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/lifecycle.PNG "LibGDX Lifecycle" 
+[logo]: https://github.com/ardiansyah97/MobileComputing/raw/master/img/lifecycle.PNG "LibGDX Lifecycle" 
 </center>
 
 ## Viewport
@@ -27,7 +27,7 @@ Fungsi di atas akan mengembalikan nilai true atau false. Kemudian bisa juga dida
 
 <center>
 ![alt text][logo]
-[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/input.png "Before Clicked/Touched"
+[logo]: https://github.com/ardiansyah97/MobileComputing/raw/master/img/input.png "Before Clicked/Touched"
 </center>
 
 ## Moving Sprite
@@ -38,11 +38,11 @@ Pada percobaan ini, kami memberikan batasan touch pada sisi kiri dan kanan layar
 
 <center>
 ![alt text][logo]
-[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/hud.png "Before Clicked/Touched"
+[logo]: https://github.com/ardiansyah97/MobileComputing/raw/master/img/hud.png "Before Clicked/Touched"
 </center>
 
 <center>
 ![alt text][logo]
-[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/move.png "After Clicked/Touched"
+[logo]: https://github.com/ardiansyah97/MobileComputing/raw/master/img/move.png "After Clicked/Touched"
 </center>
 ## 2D Particles Tool
