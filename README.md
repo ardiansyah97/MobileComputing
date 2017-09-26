@@ -9,7 +9,7 @@ Contoh:
 
 > Gdx.apps.log("Lifecycle", "create()");
 
-![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/lifecycle.png "LibGDX Lifecycle")
+![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/lifecycle.PNG "LibGDX Lifecycle")
 
 ## Viewport
 Pada percobaan ini, saya mencoba 2 Viewport yaitu ScretchViewport dan FitViewport. Perbedaan kedua viewport yaitu ketika dicoba untuk melakukan resize window maka pada ScretchViewport aspek di dalamnya tidak menyesuaikan skala windownya, sedangkan FitViewport akan menyesuaikan skala windownya. Selain itu, pada FitViewport akan menambahkan LetterBoxing untuk ruang yang tersisa.
