@@ -9,6 +9,11 @@ Contoh:
 
 > Gdx.apps.log("Lifecycle", "create()");
 
+<center>
+![alt text][logo]
+[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/lifecycle.PNG "LibGDX Lifecycle" 
+</center>
+
 ## Viewport
 ## Head-Up Display
 ## Touch Input
@@ -20,9 +25,24 @@ Fungsi di atas akan mengembalikan nilai true atau false. Kemudian bisa juga dida
 
 >Gdx.input.getY();
 
+<center>
+![alt text][logo]
+[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/input.png "Before Clicked/Touched"
+</center>
+
 ## Moving Sprite
 Pada percobaan ini, kami memberikan batasan touch pada sisi kiri dan kanan layar sebesar 25% (25% kiri dan 25% kanan). Jadi ketika kita men-touch pada area tersebut, bola/ball yang merupakan Sprite akan melakukan perpindahan posisi. Untuk melakukan updating posisinya, kami menggunakan
 >setPosition(ball.getX() - 10, ball.getY()); //ini akan bergeser ke kiri (ketika layar sebelah kiri di touch)
 
 >setPosition(ball.getX() + 10, ball.getY()); //ini akan bergeser ke kanan (ketika layar sebelah kanan di touch)
+
+<center>
+![alt text][logo]
+[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/hud.png "Before Clicked/Touched"
+</center>
+
+<center>
+![alt text][logo]
+[logo]: https://github.com/ardiansyah97/MobileComputing/blob/master/img/move.png "After Clicked/Touched"
+</center>
 ## 2D Particles Tool
