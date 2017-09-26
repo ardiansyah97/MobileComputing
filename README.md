@@ -62,4 +62,4 @@ effect.draw(batch, delta);
 
 Tp dalam percobaan ini saya blm bisa mengimplementasikannya jadi saya cuman memberikan gambaran dari tools nya
 
-![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/tools_particle.png
+![alt text](https://github.com/ardiansyah97/MobileComputing/raw/master/img/tools_particle.png)
